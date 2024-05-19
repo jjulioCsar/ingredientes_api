@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "Alface",
+    "Composição": "O alface é composto principalmente por folhas verdes, caule e raiz. "
+  },
+  {
+    "id": 2,
+    "nome": "Queijo",
+    "Composição": "Tem leite"
+  }
+]
